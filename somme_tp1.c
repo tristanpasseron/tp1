@@ -7,5 +7,6 @@ int main()
 	int result;
 	
 	result = a + b;
-	printf(result);	
+	printf("%d",result);
+	printf("\n");	
 }
